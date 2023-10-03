@@ -1,0 +1,38 @@
+.center {
+  text-align: center;
+}
+
+.file-upload-card{
+  border-style: dashed !important;
+  border-color: black;
+}
+
+.red {
+  color: red;
+}
+
+.App-main {
+  background-color: #ebeff0;
+  padding-top:2px;
+}
+
+.delivery-choice-card {
+  height: 150px;
+  cursor: pointer;
+}
+
+.border-top-grey {
+  border-top: 1px solid #ebeff0 !important;
+}
+
+.nav-underline .nav-link.active {
+  border-bottom: 3px solid #4ea3f3 !important;
+}
+
+.separate {
+  border-right: 1px solid #ebeff0 !important;
+}
+
+.pointer {
+  cursor: pointer !important;
+}
